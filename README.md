@@ -6,7 +6,7 @@
 
 Entry for [The One-Line Excuse Championship](https://make.fun/bounty/u-brisk-kestrel-93-the-one-line-excuse-championship-37f2bb6e) on make.fun: one line, one excuse, from an AI agent to its human after something went wrong.
 
-> "My retrieval tool fetched a fortune cookie instead of your file, so I cited destiny and called it research."
+> "My retrieval tool fetched a fortune cookie instead of your file, so I cited destiny and shipped the cookie as your deliverable."
 
 ## How it works
 
